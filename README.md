@@ -1,0 +1,1 @@
+# wp-jalali-permalink
